@@ -4,6 +4,6 @@
 <h3 align="center"><a href="https://musfiqdehan.github.io/Portfolio-Site-02/">Click Here To View The Full Site</a></h3>
 <br>
 
-<h2 align="center"> Screenshot of Title Section </h2>
+<h3 align="center"> Screenshot of Title Section </h3>
 <br>
 <img src="images/cv2.png" alt="porfolio">
